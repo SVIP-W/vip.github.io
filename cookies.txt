@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.519faka.run	TRUE	/	FALSE	1999999999	PHPSESSID	3k9q24r9ph5oiki5d5m6cmmnl2
+www.519faka.run	TRUE	/	FALSE	1999999999	tokenid	od8smWFutNykMHVkQvPQEU3aaSqxwriL9OCRXlruVgt4aPNPDKbNm9jGfeDadI2x
+www.519faka.run	TRUE	/	FALSE	1999999999	tangg	1
+
